@@ -35,12 +35,7 @@ The Power BI dashboard presents customer-related data through visualizations and
 
 Add your dashboard screenshot here after uploading it to the repository.
 
-## Project Files
 
-* `sql/` — SQL scripts used for data cleaning and analysis.
-* `powerbi/` — Power BI dashboard file.
-* `screenshots/` — Dashboard preview images.
-* `data/` — Dataset information, subject to source permissions.
 
 ## Key Learnings
 
